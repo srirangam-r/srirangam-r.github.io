@@ -1,9 +1,9 @@
 ---
 layout: default
-type : experience
+type : project
 modal-id: 2
 date: 2014-07-18
-img: ssl.png
+img: gcs.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

@@ -8,8 +8,8 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Robotics Interest Group (RIG) NITC is a student club of Robotics enthusiasts working on various research projects, competitions and holding expos and workshops to teach Robotics. As a part of RIG, I led two research projects - Quadruped and Garbage sorting robot. I designed and fabricated a novel quadruped with legs designed based on a delta robot, enhancing stability. I developed and trained a custom dataset for sorting recyclable and non recyclable garbage using RCNN and yolov3. I also led the 2021 Robocon team to make an arrow throwing robot.
 video: https://www.youtube.com/embed/zzm6BDPHBtk
 gif:
-  - cabin.png
+  - rig_cover.png
 ---
