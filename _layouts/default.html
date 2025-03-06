@@ -19,6 +19,20 @@
   {% include footer.html %}
   {% include modals.html %}
   {% include js.html %}
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <script>
+    $(document).ready(function() {
+      var hash = window.location.hash;
+      if (hash) {
+        var modal = $(hash);
+        if (modal.length && modal.hasClass('portfolio-modal')) {
+          modal.modal('show');
+        }
+      }
+    });
+  </script>
 </body>
 
 </html>
