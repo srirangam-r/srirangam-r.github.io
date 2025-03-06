@@ -1,0 +1,16 @@
+---
+name: RIG NITC
+layout: default
+type : experience
+modal-id: 6
+date: 2014-07-18
+img: RIG.png
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: Robotics Interest Group (RIG) NITC is a student club of Robotics enthusiasts working on various research projects, competitions and holding expos and workshops to teach Robotics. As a part of RIG, I led two research projects - Quadruped and Garbage sorting robot. I designed and fabricated a novel quadruped with legs designed based on a delta robot, enhancing stability. I developed and trained a custom dataset for sorting recyclable and non recyclable garbage using RCNN and yolov3. I also led the 2021 Robocon team to make an arrow throwing robot.
+video: https://www.youtube.com/embed/zzm6BDPHBtk
+gif:
+  - rig_cover.png
+---

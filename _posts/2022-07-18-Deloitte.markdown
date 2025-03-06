@@ -1,0 +1,16 @@
+---
+name: Deloitte USI - Analyst
+layout: default
+type : experience
+modal-id: 9
+date: 2014-07-18
+img: deloitte.png
+alt: image-alt
+project-date: 
+client: 
+category: 
+description: At Deloitte, I worked as a Site Reliability Engineer in the McDonald's Automated Drive-thru AI team. My responsibility was to create an automated monitoring, issue detection and resolution system for the voice agent, vehicle detection, AWS infrastructure and IoT smart kitchen for over 100 stores. I developed a system using NewRelic, Pagerduty and Rundeck to automate 90% of incidents. I also automated most of the report generation, data analysis, and release deployments my team was performing.
+video: https://www.youtube.com/embed/zzm6BDPHBtk
+gif:
+  - Mcdonalds-Ai-drive-thru.jpg
+---
