@@ -1,0 +1,13 @@
+---
+name: Obstacle aware Manipulation
+layout: default
+type : project
+modal-id: 7
+date: 2014-07-18
+img: pincher.png
+alt: image-alt
+description: For my Robot Mechanics and Control course project, I did a simple pick and place task with a PincherX100 arm. I simulated the picklk and place task using MATLAB before implementing my code on the actual robot. The inverse kinematics was solved using MATLAB's IK solver, an analytical closed form solution and gradient descent. The positions of the object and the goal are found using an overhead camera and april tags. I also implemented obstacle avoidance using A* and geometric methods.
+video: 
+gif:
+  - pickplace.gif
+---

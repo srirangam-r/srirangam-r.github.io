@@ -13,9 +13,8 @@ description: "<p>For our undergrad final project, we developed a fully autonomou
   <p>1. A nostril detection system - Trained an object detection model with a custom-made dataset with over 30,000 images from 47 people using yolov5 and ran it on an Xbox Kinect to detect the position of nostrils with an mAP of 86.9%.</p>
   <p>2. Manipulation - Restored an old Mitsubishi RV-M1 and designed a control circuit to control the arm using ROS and Moveit.</p>
   <p>3. Compliant design - Designed and fabricated a 3 jaw compliant gripper with force feedback to detect when the swab hits the nasal walls and safely channel the swab through the nasal cavity using impedance control</p>
-  <p>Thw whole system was running on an Nvidia Jetson TX2. You can read more about this project in my <a href=\"https://docs.google.com/document/d/16zXyAnVcTt-DmsoWMEf8eCqAczfnzF2o2qk0vAvZb1A/edit?usp=sharing\">thesis</a>.</p>"
-
-video: https://www.youtube.com/embed/zzm6BDPHBtk
+  <p>The whole system was running on an Nvidia Jetson TX2. You can read more about this project in my <a href=\"https://docs.google.com/document/d/16zXyAnVcTt-DmsoWMEf8eCqAczfnzF2o2qk0vAvZb1A/edit?usp=sharing\">thesis</a>.</p>"
+video: swab_testing.mp4
 gif:
-  - swab_testing.png
+
 ---

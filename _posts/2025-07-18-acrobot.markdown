@@ -1,0 +1,12 @@
+---
+name: Swing up control of Acrobot
+layout: default
+type : project
+modal-id: 10
+date: 2014-07-18
+img: acrobot.png
+alt: image-alt
+description: For my Control Systems course project, I am simulating an Acrobot in Drake and designing and implementing controllers for it based on energy shaping and LQR. Will be updating this as I make progress.
+video: 
+gif:
+---

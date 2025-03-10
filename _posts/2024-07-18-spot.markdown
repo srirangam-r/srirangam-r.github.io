@@ -1,0 +1,14 @@
+---
+name: Indoor SLAM using Spot
+layout: default
+type : project
+modal-id: 3
+date: 2014-07-18
+img: spot.png
+alt: image-alt
+description: "<p>For the final project of the course Robotics Sensing and Navigation, I collected datasets during Boston Dynamics' Spot's indoor operation containing all of its sensors - 5 stereo cameras, LiDAR, and odometry. I then generated detailed pointclouds using RTABMap and ROS using different sensor combinations as shown in the video above.</p>
+  <p>I am currently working on an extension of this project to be able to do object-level metric semantic SLAM to localize multiple objects of interest in a dynamic industrial setting. I am building a pipeline for this based on <a href=\"https://github.com/KumarRobotics/SLIDE_SLAM\">SlideSLAM</a></p>"  
+video: spot_slam.mp4  
+
+gif:
+---

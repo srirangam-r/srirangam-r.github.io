@@ -9,8 +9,8 @@ alt: image-alt
 project-date: 
 client: 
 category: 
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: A multimodal path planning algorithm for a robot that can walk and fly for the path of least power/time for a given environment. Works by extending a standard PRM to sample walking and flying nodes separately with edge costs as the approximate power/time and running the Bellman-ford algorithm to find the best path. Currently working on validating the planner in a Simscape environment and also trying out more efficient sampling methods.
 video: https://www.youtube.com/embed/zzm6BDPHBtk
 gif:
-  - cabin.png
+  - cluttered.png
 ---

@@ -6,8 +6,7 @@ modal-id: 5
 date: 2014-07-18
 img: robocon.png
 alt: image-alt
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
-video: https://www.youtube.com/embed/zzm6BDPHBtk
+description: "<p>I was the team captain of our <strong>ABU Robocon 2021</strong> team where we designed and fabricated two mobile robots – one manual and the other autonomous – to move through an arena, picking up arrows and precisely throwing them into pots. More details about the design can be found in <a href=\"https://drive.google.com/file/d/14s6vHlBi_3uRdRsnJtOFdxnsnyQ1FI9r/view?usp=drive_link\">this document</a>.</p>"
 gif:
 
 video: robocon.mp4
