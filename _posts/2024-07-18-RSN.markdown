@@ -6,9 +6,6 @@ modal-id: 4
 date: 2014-07-18
 img: rsn.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: "<p>I implemented dead reckoning using IMU data with GPS data as the ground truth. I wrote ROS2 drivers for a GPS puck and a VN100 IMU and collected datasets driving in Northeastern's autonomous car, NUance. I performed Allan variance test to characterize the IMU's noise, calibrated the magnetometer and applied a complementary filter to process the IMU data.</p>
   <p>This work along with image stitching were done as part of the coursework for Robotics sensing and navigation and can be found <a href='https://github.com/srirangam-r/EECE5554-Robot-Sensing-and-Navigation'>here</a>. </p>"
 video: 
