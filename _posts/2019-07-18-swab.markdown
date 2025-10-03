@@ -2,7 +2,7 @@
 name: Autonomous swab sampling robot
 layout: default
 type : project
-modal-id: 1
+modal-id: 2
 date: 2014-07-18
 img: swab.png
 alt: image-alt

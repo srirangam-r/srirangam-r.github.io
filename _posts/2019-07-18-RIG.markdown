@@ -2,7 +2,7 @@
 name: RIG NITC
 layout: default
 type : experience
-modal-id: 6
+modal-id: 101
 date: 2014-07-18
 img: RIG.png
 alt: image-alt

@@ -2,7 +2,7 @@
 name: Multimodal PRM
 layout: default
 type : project
-modal-id: 11
+modal-id: 8
 date: 2014-07-18
 img: prm.png
 alt: image-alt

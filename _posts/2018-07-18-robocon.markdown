@@ -2,7 +2,7 @@
 name: Arrow throwing robot for ABU Robocon 2021
 layout: default
 type : project
-modal-id: 5
+modal-id: 1
 date: 2014-07-18
 img: robocon.png
 alt: image-alt

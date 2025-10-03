@@ -1,0 +1,13 @@
+---
+name: Northeastern Autonomy and Intelligence Laboratory
+layout: default
+type : experience
+modal-id: 103
+date: 2014-07-18
+img: nail.png
+alt: image-alt
+description: Pending
+video: https://www.youtube.com/embed/zzm6BDPHBtk
+gif:
+  - Husky.jpg
+---
