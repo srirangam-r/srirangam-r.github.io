@@ -6,7 +6,8 @@ modal-id: 6
 date: 2014-07-18
 img: acrobot.png
 alt: image-alt
-description: For my Control Systems course project, I am simulating an Acrobot in Drake and designing and implementing controllers for it based on energy shaping and LQR. Will be updating this as I make progress.
+description: For my Control Systems course project, I simulated an Acrobot in Drake and designed and implemented controllers for it based on the original paper by Spong using energy shaping and LQR. Code and more details can be found <a href='https://github.com/srirangam-r/acrobot_swingup'>here</a>. Won the vote for the best project in the class.
 video: 
 gif:
+    - acrobot.gif
 ---

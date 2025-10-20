@@ -6,7 +6,8 @@ modal-id: 7
 date: 2014-07-18
 img: gcs.png
 alt: image-alt
-description: "For my Mobile Robotics course project, I am implementing the solver behind <a href='https://www.science.org/doi/10.1126/scirobotics.adf7843'>this paper</a> using python and cvxpy. Will be updating this as I make progress."
+description: "For my Mobile Robotics course project, I implemented the solver behind <a href='https://www.science.org/doi/10.1126/scirobotics.adf7843'>this paper</a> using python and cvxpy. Graph of convex sets presents an tight and practical convex relaxation for the motion planning problem which allowed me to compute the globally optimal shortest path for a 50 x 50 maze using convex optimization in 3.3 seconds. Code can be found <a href='https://github.com/srirangam-r/graph-of-convex-sets/tree/main'>here</a>"
 video: 
 gif:
+    - gcs_combined.gif
 ---

@@ -6,8 +6,7 @@ modal-id: 103
 date: 2014-07-18
 img: nail.png
 alt: image-alt
-description: Pending
-video: https://www.youtube.com/embed/zzm6BDPHBtk
+description: Research assistant at the Autonomy and Intelligence lab advised by Prof. Michael Everett. Research on safe planning in collaboration with the DEVCOM army research laboratory.
+video:
 gif:
-  - Husky.jpg
 ---
