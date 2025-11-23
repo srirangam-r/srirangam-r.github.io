@@ -1,0 +1,12 @@
+---
+name: Structure from motion
+layout: default
+type : project
+modal-id: 11
+date: 2014-07-18
+img: IL.png
+alt: image-alt
+description: "Implemented Structure from motion from scratch with Bundle Adjustment using GTSAM. Code and more details to be added."
+video: sfm.webm
+gif:
+---
